@@ -37,7 +37,7 @@ git clone https://github.com/your-username/ai-workflows.git
 1.  在项目主页，点击绿色的 **`<> Code`** 按钮，然后在下拉菜单中选择 **`Download ZIP`**。
 
     <p align="center">
-      <img src="images/834d9fba-1112-4ab0-8e98-9cd3c81f7735.png" alt="点击 Code 按钮后选择 Download ZIP" width="800">
+      <img src="./images/834d9fba-1112-4ab0-8e98-9cd3c81f7735.png" alt="点击 Code 按钮后选择 Download ZIP" width="800">
     </p>
 
 2.  下载完成后，找到这个 ZIP 文件并将其解压缩。
